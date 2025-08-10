@@ -1,14 +1,10 @@
 {
 "Games":[
-{
+    {
         "url":"www.google.com",
         "GameName":"Google",
-        "FileName" : "google.html"
-    }
-            ,{
-        "url":"www.google.com",
-        "GameName":"Google",
-        "FileName" : "google.html"
+        "FileName" : "google.html",
+        "Desciption":"In this Verison We have Nothing\nThanks :)"
     }
 ]
 }

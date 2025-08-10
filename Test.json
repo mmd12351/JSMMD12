@@ -5,5 +5,10 @@
         "GameName":"Google",
         "FileName" : "google.html"
     }
+            ,{
+        "url":"www.google.com",
+        "GameName":"Google",
+        "FileName" : "google.html"
+    }
 ]
 }

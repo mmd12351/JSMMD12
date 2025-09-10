@@ -1,4 +1,9 @@
 using System.Diagnostics;
-MessageBox.Show("Res");
-Process.Start("cmd.exe");
-Process.Start("cmd.exe");
+using System;
+class Program{
+  private static void Main(){
+    Process.Start("cmd.exe");
+    Process.Start("cmd.exe");
+  }
+}
+
